@@ -1,0 +1,15 @@
+# macOS 系统噪音
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# 编辑器/IDE
+.vscode/
+.idea/
+*.swp
+
+# 其他
+*.log
